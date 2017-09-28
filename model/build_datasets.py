@@ -8,7 +8,7 @@ import sys
 import hashlib
 import shutil
 
-from .classes.Sampler import *
+from classes.Sampler import *
 
 argv = sys.argv[1:]
 
